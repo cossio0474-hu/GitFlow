@@ -50,4 +50,54 @@ La aplicación web del **Consultorio Odontológico - Rosa Ducuara** permite:
 
 ## Flujo de trabajo Git
 
+Rama develop:
+Se utilizó como rama principal de integración de funcionalidades. Durante el desarrollo del sistema de consultorio, todas las nuevas características se implementaron en ramas independientes y luego se integraron a develop mediante Pull Requests. Esto permitió probar y validar cambios antes de llevarlos a producción.
+
+Ramas feature/:
+Para el desarrollo de funcionalidades específicas del sistema, se crearon ramas de tipo feature, por ejemplo:
+
+feature/login (gestión de autenticación de usuarios)
+feature/pacientes (módulo de gestión de pacientes)
+feature/citas (agendamiento de citas médicas)
+
+Cada una de estas ramas permitió trabajar de forma aislada y luego integrarse a develop.
+
+Rama release/v1.0.0:
+Se creó esta rama para preparar la primera versión estable del sistema. En esta etapa se realizaron pruebas finales, corrección de errores menores y validación general del funcionamiento del consultorio antes de su publicación.
+Rama hotfix/readme-typo:
+Posterior al lanzamiento, se utilizó esta rama para corregir un error menor en la documentación del README sin afectar el flujo principal del desarrollo.
+Versionado
+
+El proyecto incluye el tag v1.0.0, el cual representa la primera versión estable del sistema de consultorio. Este tag se generó después de finalizar la rama release/v1.0.0 y fusionarla con la rama principal, asegurando un punto de referencia claro en la evolución del proyecto.
+
 ## Evidencias   
+
+Todo esta bien carita feliz
+
+Rama develop:
+Se utilizó como rama principal de integración de funcionalidades. Durante el desarrollo del sistema de consultorio, todas las nuevas características se implementaron en ramas independientes y luego se integraron a develop mediante Pull Requests. Esto permitió probar y validar cambios antes de llevarlos a producción.
+
+Ramas feature/:
+Para el desarrollo de funcionalidades específicas del sistema, se crearon ramas de tipo feature, por ejemplo:
+
+feature/login (gestión de autenticación de usuarios)
+feature/pacientes (módulo de gestión de pacientes)
+feature/citas (agendamiento de citas médicas)
+
+Cada una de estas ramas permitió trabajar de forma aislada y luego integrarse a develop.
+
+Rama release/v1.0.0:
+Se creó esta rama para preparar la primera versión estable del sistema. En esta etapa se realizaron pruebas finales, corrección de errores menores y validación general del funcionamiento del consultorio antes de su publicación.
+Rama hotfix/readme-typo:
+Posterior al lanzamiento, se utilizó esta rama para corregir un error menor en la documentación del README sin afectar el flujo principal del desarrollo.
+Versionado
+
+El proyecto incluye el tag v1.0.0, el cual representa la primera versión estable del sistema de consultorio. Este tag se generó después de finalizar la rama release/v1.0.0 y fusionarla con la rama principal, asegurando un punto de referencia claro en la evolución del proyecto.
+
+
+A continuación, se presentan referencias verificables del repositorio:
+
+Repositorio: https://github.com/Loigon12/Consultorio
+Ramas: https://github.com/Loigon12/Consultorio/branches
+Pull Requests: https://github.com/Loigon12/Consultorio/pulls
+Commits: https://github.com/Loigon12/Consultorio/commits
