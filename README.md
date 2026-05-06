@@ -54,12 +54,20 @@ La aplicación web del **Consultorio Odontológico - Rosa Ducuara** permite:
 
 Todo esta bien carita feliz
 
-# develop se uso bien
-
+develop se uso bien 
 https://www.youtube.com/watch?v=ZZq4TpNgnvg
 
-# feature/readme-base                   
+feature/readme-base                   
 
-# feature/readme-basefeature/readme-base
+feature/readme-basefeature/readme-base
 
-# release/v1.0.0.
+release/v1.0.0.
+
+
+A continuación se incluyen referencias verificables del proceso:
+
+Repositorio: https://github.com/usuario/proyecto-ejemplo
+Ramas: https://github.com/usuario/proyecto-ejemplo/branches
+Pull Requests: https://github.com/usuario/proyecto-ejemplo/pulls
+Tag v1.0.0: https://github.com/usuario/proyecto-ejemplo/releases/tag/v1.0.0
+Workflow CI/CD: https://github.com/usuario/proyecto-ejemplo/actions
