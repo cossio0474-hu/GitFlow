@@ -1,7 +1,8 @@
 # Nombre del Proyecto
+
 ## Descripción
+
 ## Instalación
-## Uso
 
 1. Clona el repositorio:
    ```bash
@@ -48,4 +49,5 @@ La aplicación web del **Consultorio Odontológico - Rosa Ducuara** permite:
 > Puedes consultar todos los colaboradores del proyecto en la sección [Contributors](https://github.com/Loigon12/Consultorio/graphs/contributors) del repositorio.
 
 ## Flujo de trabajo Git
-## Evidencias
+
+## Evidencias   
