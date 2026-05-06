@@ -2,13 +2,6 @@
 ## Descripción
 ## Instalación
 ## Uso
-## Autores
-## Flujo de trabajo Git
-## Evidencias
-
-# Nombre del Proyecto
-## Descripción
-## Instalación
 
 1. Clona el repositorio:
    ```bash
