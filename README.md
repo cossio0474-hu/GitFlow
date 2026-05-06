@@ -94,7 +94,6 @@ Versionado
 
 El proyecto incluye el tag v1.0.0, el cual representa la primera versión estable del sistema de consultorio. Este tag se generó después de finalizar la rama release/v1.0.0 y fusionarla con la rama principal, asegurando un punto de referencia claro en la evolución del proyecto.
 
-Evidencias
 
 A continuación, se presentan referencias verificables del repositorio:
 
